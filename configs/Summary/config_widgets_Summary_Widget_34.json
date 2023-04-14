@@ -1,0 +1,18 @@
+{
+  "displayCluster": false,
+  "showFeatureCount": true,
+  "featureCountLabel": "",
+  "summaryLayer": {
+    "fields": [
+      {
+        "type": "SUM",
+        "label": "",
+        "field": ""
+      }
+    ],
+    "id": "1878070e4e4-layer-2",
+    "name": "Fallas Valencia 2023",
+    "filterField": "seccion",
+    "url": "1878070e4e4-layer-2"
+  }
+}
